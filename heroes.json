@@ -1,0 +1,16 @@
+{
+    "heroes": [
+      {
+        "name": "Heroi 1",
+        "id": 1
+      },
+      {
+        "name": "Heroi 2",
+        "id": 2
+      },
+      {
+        "name": "Heroi 3",
+        "id": 3
+      }
+    ]
+  }
